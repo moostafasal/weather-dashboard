@@ -1,0 +1,12 @@
+# Ignore environment file
+.env
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore local weather data
+weather-data-local/
+
+
+# Ignore any zip files
+*.zip
